@@ -1,0 +1,83 @@
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\sadikturan\Desktop\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\sadikturan\Desktop\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\sadikturan\Desktop\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\sadikturan\Desktop\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+E:\OneDrive\kurslar\komple web geliştirme\update\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+E:\OneDrive\kurslar\komple web geliştirme\update\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+E:\OneDrive\kurslar\komple web geliştirme\update\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+E:\OneDrive\kurslar\komple web geliştirme\update\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CopyComplete
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\5-Ado.Net\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CopyComplete

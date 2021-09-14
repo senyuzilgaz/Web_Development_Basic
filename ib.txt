@@ -1,0 +1,8 @@
+It seems like a normal email. Please always be careful.
+It seems like a marketing email. Please always be careful.
+It seems like a Phishing email. Please always be careful.
+It seems like a Spam email. Please never reply to these mails.
+It seems like a Malicious email. Please always be careful.
+It seems like a Malicious email. Please always be careful and never open attachments.
+
+

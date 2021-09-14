@@ -1,0 +1,16 @@
+C:\Users\ilgaz\Desktop\Web_Development\Send\bin\Debug\netcoreapp3.1\Send.exe
+C:\Users\ilgaz\Desktop\Web_Development\Send\bin\Debug\netcoreapp3.1\Send.deps.json
+C:\Users\ilgaz\Desktop\Web_Development\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.json
+C:\Users\ilgaz\Desktop\Web_Development\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.dev.json
+C:\Users\ilgaz\Desktop\Web_Development\Send\bin\Debug\netcoreapp3.1\Send.dll
+C:\Users\ilgaz\Desktop\Web_Development\Send\bin\Debug\netcoreapp3.1\Send.pdb
+C:\Users\ilgaz\Desktop\Web_Development\Send\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\ilgaz\Desktop\Web_Development\Send\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\ilgaz\Desktop\Web_Development\Send\obj\Debug\netcoreapp3.1\Send.csprojAssemblyReference.cache
+C:\Users\ilgaz\Desktop\Web_Development\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfoInputs.cache
+C:\Users\ilgaz\Desktop\Web_Development\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfo.cs
+C:\Users\ilgaz\Desktop\Web_Development\Send\obj\Debug\netcoreapp3.1\Send.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\Desktop\Web_Development\Send\obj\Debug\netcoreapp3.1\Send.csproj.CopyComplete
+C:\Users\ilgaz\Desktop\Web_Development\Send\obj\Debug\netcoreapp3.1\Send.dll
+C:\Users\ilgaz\Desktop\Web_Development\Send\obj\Debug\netcoreapp3.1\Send.pdb
+C:\Users\ilgaz\Desktop\Web_Development\Send\obj\Debug\netcoreapp3.1\Send.genruntimeconfig.cache

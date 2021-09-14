@@ -1,0 +1,16 @@
+C:\Users\ilgaz\Desktop\Web_Development\Receive\bin\Debug\netcoreapp3.1\Receive.exe
+C:\Users\ilgaz\Desktop\Web_Development\Receive\bin\Debug\netcoreapp3.1\Receive.deps.json
+C:\Users\ilgaz\Desktop\Web_Development\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.json
+C:\Users\ilgaz\Desktop\Web_Development\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.dev.json
+C:\Users\ilgaz\Desktop\Web_Development\Receive\bin\Debug\netcoreapp3.1\Receive.dll
+C:\Users\ilgaz\Desktop\Web_Development\Receive\bin\Debug\netcoreapp3.1\Receive.pdb
+C:\Users\ilgaz\Desktop\Web_Development\Receive\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\ilgaz\Desktop\Web_Development\Receive\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\ilgaz\Desktop\Web_Development\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfoInputs.cache
+C:\Users\ilgaz\Desktop\Web_Development\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfo.cs
+C:\Users\ilgaz\Desktop\Web_Development\Receive\obj\Debug\netcoreapp3.1\Receive.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\Desktop\Web_Development\Receive\obj\Debug\netcoreapp3.1\Receive.csproj.CopyComplete
+C:\Users\ilgaz\Desktop\Web_Development\Receive\obj\Debug\netcoreapp3.1\Receive.dll
+C:\Users\ilgaz\Desktop\Web_Development\Receive\obj\Debug\netcoreapp3.1\Receive.pdb
+C:\Users\ilgaz\Desktop\Web_Development\Receive\obj\Debug\netcoreapp3.1\Receive.genruntimeconfig.cache
+C:\Users\ilgaz\Desktop\Web_Development\Receive\obj\Debug\netcoreapp3.1\Receive.csprojAssemblyReference.cache
