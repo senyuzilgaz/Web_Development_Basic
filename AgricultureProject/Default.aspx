@@ -175,7 +175,7 @@
                 <p class="main_p mt-4 mb-4 pt-2 text-center mx-auto"> You can share your opinions with us, or ask for something you want to know!</p>
             </div>
             <div class="contact_grid_right mt-5 mx-auto text-center">
-                <form action="#" method="post">
+                <form action="#" method="post" runat="server">
                     <div class="row contact_top">
                         <div class="col-sm-6">
                             <input type="text" name="Name" placeholder="Name" required="">
@@ -185,8 +185,8 @@
                         </div>
                     </div>
                     <textarea name="Message" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message...';}" required="">Message...</textarea>
-                    <button type="button" class="btn btn-success" style="padding: 80px, 80px; font-size: 20px; margin-right: 50px;"> Send Message </button>
-                    <button type="reset" class="btn btn-primary" style="padding: 80px, 80px; font-size: 20px;"> Clear Message </button>
+                    <asp:Button ID="Button1" runat="server"  type="button" class="btn btn-success" style="padding: 80px, 80px; font-size: 20px; margin-right: 50px;" Text="Send Message" />
+        
                     <div class="clearfix"></div>
                 </form>
             </div>
