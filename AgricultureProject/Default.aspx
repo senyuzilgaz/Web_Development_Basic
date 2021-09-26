@@ -184,9 +184,10 @@
                             <asp:TextBox ID="TextBox2" runat="server"  type="email" name="Email" placeholder="Email" required=""></asp:TextBox>
                         </div>
                     </div>
-                    <textarea name="Message" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message...';}" required="">Message...</textarea>
-                    <asp:Button ID="Button1" runat="server"  type="button" class="btn btn-success" style="padding: 80px, 80px; font-size: 20px; margin-right: 50px;" Text="Send Message" />
-        
+
+                    <asp:TextBox style="margin-bottom: 25px;" ID="TextBox3" runat="server" Text="Message..." name="Message" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message...';}" required=""></asp:TextBox>
+                    <asp:Button ID="Button1" runat="server"  type="button" class="btn btn-success" style="padding: 80px, 80px; font-size: 20px; margin-right: 50px;" Text="Send Message" OnClick="Button1_Click" />
+                    
                     <div class="clearfix"></div>
                 </form>
             </div>
