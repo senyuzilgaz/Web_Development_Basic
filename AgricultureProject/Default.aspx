@@ -186,7 +186,7 @@
                     </div>
 
                     <asp:TextBox style="margin-bottom: 25px;" ID="TextBox3" runat="server" Text="Message..." name="Message" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message...';}" required=""></asp:TextBox>
-                    <asp:Button ID="Button1" runat="server"  type="button" class="btn btn-success" style="padding: 80px, 80px; font-size: 20px; margin-right: 50px;" Text="Send Message" OnClick="Button1_Click" />
+                    <asp:Button ID= "Button1" runat="server"  type="button" class="btn btn-success" style="padding: 80px, 80px; font-size: 20px; margin-right: 50px;" Text="Send Message" OnClick="Button1_Click" />
                     
                     <div class="clearfix"></div>
                 </form>
