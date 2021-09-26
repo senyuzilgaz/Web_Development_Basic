@@ -175,10 +175,10 @@
             <img src="web/images/1.jpg" alt="news image" class="img-fluid">
         <asp:Repeater ID="Repeater2" runat="server">
             <ItemTemplate>
-            <div class="row about-info-diam mt-5">
-                <div class="col-md-4 about-diam about-diam1">
-                    <h4> <%# Eval("Name") %>  </h4>
-                    <p class="mt-4">  <%# Eval("Description") %> </p>
+            <div class="">
+                <div style="display: flex;">
+                    <h4 style="padding:25px; margin: 25px;"> <%# Eval("Name") %>  </h4>
+                    <p style="display: flex;" class="mt-5">  <%# Eval("Description") %> </p>
                 </div>
             </div>
             </ItemTemplate>
