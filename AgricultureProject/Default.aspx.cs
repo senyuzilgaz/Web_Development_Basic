@@ -14,6 +14,10 @@ namespace AgricultureProject
             DataSet1TableAdapters.Description_TBTableAdapter dt = new DataSet1TableAdapters.Description_TBTableAdapter();
             Repeater1.DataSource = dt.GetData();
             Repeater1.DataBind();
+
+            DataSet1TableAdapters.Products_TBTableAdapter products = new DataSet1TableAdapters.Products_TBTableAdapter();
+            Repeater2.DataSource = products.GetProducts();
+            Repeater2.DataBind();
         }
     }
 }

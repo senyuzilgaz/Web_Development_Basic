@@ -170,25 +170,21 @@
     </section>
     <!-- //what we do -->
     <section class="diam  py-5" id="news">
+
         <div class="container py-lg-5">
             <img src="web/images/1.jpg" alt="news image" class="img-fluid">
+        <asp:Repeater ID="Repeater2" runat="server">
+            <ItemTemplate>
             <div class="row about-info-diam mt-5">
                 <div class="col-md-4 about-diam about-diam1">
-                    <h4>Integer porttitor mollisar lorem</h4>
-                    <p class="mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.Nulla pellentesque mi non laoreet eleifend. Integer porttitor mollisar lorem, at molestie arcu pulvinar ut. Proin ac fermentum est. Cras mi ipsum </p>
-                    <p class="mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.Nulla pellentesque mi non laoreet eleifend. Integer porttitor mollisar lorem, at molestie arcu pulvinar ut. Proin ac fermentum est. </p>
-                </div>
-                <div class="col-md-4 about-diam about-diam2">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.Nulla pellentesque mi non laoreet eleifend. Integer porttitor mollisar lorem, at molestie arcu pulvinar ut. Proin ac fermentum est. Cras mi ipsum, consectetur ac ipsum Proin ac fermentum est. </p>
-                    <p class="mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.Nulla pellentesque mi non laoreet eleifend. Integer porttitor mollisar lorem, at molestie arcu pulvinar ut. Proin ac fermentum est. Cras mi ipsum, consectetur ac ipsum Proin ac fermentum est. </p>
-                </div>
-                <div class="col-md-4 about-diam about-diam3">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.Nulla pellentesque mi non laoreet eleifend. Integer porttitor mollisar lorem, at molestie arcu pulvinar ut. Proin ac fermentum est.  </p>
-                    <p class="mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.Nulla pellentesque mi non laoreet eleifend. Integer porttitor mollisar lorem, at molestie arcu pulvinar ut. Proin ac fermentum est. </p>
-                    <a href="#contact" class="btn button-style mt-sm-5 mt-4 scroll">Learn More</a>
+                    <h4> <%# Eval("Name") %>  </h4>
+                    <p class="mt-4">  <%# Eval("Description") %> </p>
                 </div>
             </div>
+            </ItemTemplate>
+        </asp:Repeater>
         </div>
+
     </section>
     <!-- contact -->
     <section class="wedo py-5" id="contact">
