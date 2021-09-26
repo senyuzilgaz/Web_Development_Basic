@@ -80,7 +80,7 @@
             <ItemTemplate>
                 <div class="container py-lg-5">
                     <div class="text-center">
-                        <h2 class="w3_head">Our Mission </h2>
+                        <h2 class="w3_head">Agriculture </h2>
                         <p class="main_p mt-4 mb-4 pt-2 text-center mx-auto"> <%# Eval("Description") %></p>
                     </div>
                 </div>
@@ -92,22 +92,22 @@
         <div class="container py-lg-5">
             <div class="row about-info-grids text-center">
                 <div class="col-md-4 about-info about-info1">
-                    <span class="fa fa-leaf"></span>
-                    <h4>Sit amet</h4>
+                    <span class="fa fa-sun-o"></span>
+                    <h4>Sun</h4>
                     <div class="h4-underline"></div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                    <p>Sunlight provides the energy plants need to convert carbon dioxide and water into carbohydrates and oxygen. The carbohydrates produced by photosynthesis are used for vegetative and reproductive growth and to increase crop biomass. Because solar energy is needed for photosynthesis, it only occurs during daylight.</p>
                 </div>
                 <div class="col-md-4 about-info about-info2">
-                    <span class="fa fa-cog"></span>
-                    <h4>Adipisicing</h4>
+                    <span class="fa fa-umbrella"></span>
+                    <h4>Rainfall</h4>
                     <div class="h4-underline"></div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                    <p>The primary source of water for agricultural production for most of the world is rainfall. Three main characteristics of rainfall are its amount, frequency and intensity, the values of which vary from place to place, day to day, month to month and also year to year. Precise knowledge of these three main characteristics is essential for planning its full utilization.</p>
                 </div>
                 <div class="col-md-4 about-info about-info3">
                     <span class="fa fa-cloud"></span>
-                    <h4>Dolor sit</h4>
+                    <h4>Fencing</h4>
                     <div class="h4-underline"></div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                    <p>Fencing plays an important role in creating and demarcating boundaries on farms. This can contain herds and individual animals within a specified area, and excludes wild predators. It also establishes property boundaries.</p>
                 </div>
                 <div class="whsat_bt text-center mx-auto">
                     <a href="#features" class="btn button-style mt-sm-5 mt-4 scroll">Learn More</a>
