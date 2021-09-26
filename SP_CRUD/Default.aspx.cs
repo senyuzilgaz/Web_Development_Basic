@@ -30,12 +30,8 @@ namespace SP_CRUD
 
         protected void Button1_Click1(object sender, EventArgs e)
         {
-            string name = TextBox7.Text, spec = TextBox8.Text, status = RadioButtonList1.SelectedValue;
-            DateTime date = DateTime.Parse(TextBox11.Text);
-            con.Open();
-            SqlCommand com = new SqlCommand("exec Products_Setup '" + name + "', '" + spec + "', '" + status + "', '" + date + "'", con);
-            com.ExecuteNonQuery();
-            con.Close();
+            DataSet1TableAdapters.Show_ProductsTableAdapter dt = new DataSet1TableAdapters.Show_ProductsTableAdapter();
+            dt.Insert(TextBox7.Text, TextBox8.Text, RadioButtonList1.SelectedValue, DateTime.Parse(TextBox11.Text));
             ScriptManager.RegisterStartupScript(this, this.GetType(), "script", "alert('Succesfully Inserted!');", true);
             GetProducts();
         }
