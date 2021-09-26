@@ -178,10 +178,10 @@
                 <form action="#" method="post" runat="server">
                     <div class="row contact_top">
                         <div class="col-sm-6">
-                            <input type="text" name="Name" placeholder="Name" required="">
+                            <asp:TextBox ID="TextBox1" runat="server"  type="text" name="Name" placeholder="Name" required="" ></asp:TextBox>
                         </div>
                         <div class="col-sm-6">
-                            <input type="email" name="Email" placeholder="Email" required="">
+                            <asp:TextBox ID="TextBox2" runat="server"  type="email" name="Email" placeholder="Email" required=""></asp:TextBox>
                         </div>
                     </div>
                     <textarea name="Message" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message...';}" required="">Message...</textarea>
