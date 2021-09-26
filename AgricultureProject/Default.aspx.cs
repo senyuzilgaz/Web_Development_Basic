@@ -12,6 +12,7 @@ namespace AgricultureProject
         protected void Page_Load(object sender, EventArgs e)
         {
             DataSet1TableAdapters.Description_TBTableAdapter dt = new DataSet1TableAdapters.Description_TBTableAdapter();
+            Repeater1.DataSource = dt.GetData();
         }
     }
 }

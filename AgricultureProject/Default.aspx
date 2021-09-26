@@ -81,7 +81,7 @@
                 <div class="container py-lg-5">
                     <div class="text-center">
                         <h2 class="w3_head">Our Mission </h2>
-                        <p class="main_p mt-4 mb-4 pt-2 text-center mx-auto"> <%# Eval("Decription) %></p>
+                        <p class="main_p mt-4 mb-4 pt-2 text-center mx-auto"> <%# Eval("Decription") %></p>
                     </div>
                 </div>
             </ItemTemplate>
