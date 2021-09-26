@@ -63,8 +63,8 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="style-banner">
-                        <h1 class="text-white">Welcome to Agriculture</h1>
-                        <p class="mt-5 text-white">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui </p>
+                        <h1 class="text-white">Welcome to Agriculture Project</h1>
+                        <p class="mt-5 text-white"> I designed this website using ASP.NET WebForms, and MSSQL. All the data is fetched from Mssql database, and contact form sends it's information to Mssql database. </p>
                         <a href="#about" class="btn button-style mt-sm-5 mt-4 scroll">Learn More</a>
                     </div>
                 </div>
@@ -115,23 +115,13 @@
             </div>
         </div>
     </section>
-    <!-- what we do -->
-    <section class="wedo py-5">
-        <div class="container py-lg-5">
-            <div class="text-center">
-                <h3 class="w3_head">Integer porttitor mollisar lorem, at molestie arcu </h3>
-                <p class="main_p mt-4 mb-4 pt-2 text-center mx-auto">Nulla pellentesque mi non laoreet eleifend. Integer porttitor mollisar lorem, at molestie arcu pulvinar ut. Proin ac fermentum est. Cras mi ipsum, consectetur ac ipsum Proin ac fermentum est. Cras mi ipsum, </p>
-            </div>
-        </div>
-    </section>
-    <!-- //what we do -->
+
     <section class="augue py-5" id="features">
         <div class="container py-lg-5">
             <div class="row about-info-augue">
                 <div class="col-md-4 about-aug about-aug1">
-                    <h4>Integer porttitor mollisar lorem</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.Nulla pellentesque mi non laoreet eleifend. Integer porttitor mollisar lorem, at molestie arcu pulvinar ut. Proin ac fermentum est. Cras mi ipsum, consectetur ac ipsum Proin ac fermentum est. </p>
-                    <p class="mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.Nulla pellentesque</p>
+                    <h4>Importance of Agriculture</h4>
+                    <p>Human existence cannot be guaranteed without the intake of food which is the major importance of agriculture and farming. . Now food doesn’t fall from the sky but food are produced by people who are known as farmers. I’m going to list some of the basic importance of agriculture. Although these importance are not limited to these but you can use our comment box to let us know if you need info concerning the post </p>
                     <a href="#news" class="btn button-style mt-sm-5 mt-4 scroll">Learn More</a>
                 </div>
                 <div class="col-md-4 about-aug about-aug2">
@@ -159,16 +149,7 @@
             </div>
         </div>
     </section>
-    <!-- what we do -->
-    <section class="wedo py-5">
-        <div class="container py-lg-5">
-            <div class="text-center">
-                <h3 class="w3_head">Integer porttitor mollisar lorem, at molestie arcu </h3>
-                <p class="main_p mt-4 mb-4 pt-2 text-center mx-auto">Nulla pellentesque mi non laoreet eleifend. Integer porttitor mollisar lorem, at molestie arcu pulvinar ut. Proin ac fermentum est. Cras mi ipsum, consectetur ac ipsum Proin ac fermentum est. Cras mi ipsum, </p>
-            </div>
-        </div>
-    </section>
-    <!-- //what we do -->
+
     <section class="diam  py-5" id="news">
 
         <div class="container py-lg-5">
@@ -190,8 +171,8 @@
     <section class="wedo py-5" id="contact">
         <div class="container py-lg-5">
             <div class="text-center">
-                <h3 class="w3_head">Integer porttitor mollisar lorem, at molestie arcu </h3>
-                <p class="main_p mt-4 mb-4 pt-2 text-center mx-auto">Nulla pellentesque mi non laoreet eleifend. Integer porttitor mollisar lorem, at molestie arcu pulvinar ut. Proin ac fermentum est. Cras mi ipsum, consectetur ac ipsum Proin ac fermentum est. Cras mi ipsum, </p>
+                <h3 class="w3_head">Contact us </h3>
+                <p class="main_p mt-4 mb-4 pt-2 text-center mx-auto"> You can share your opinions with us, or ask for something you want to know!</p>
             </div>
             <div class="contact_grid_right mt-5 mx-auto text-center">
                 <form action="#" method="post">
@@ -204,8 +185,8 @@
                         </div>
                     </div>
                     <textarea name="Message" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message...';}" required="">Message...</textarea>
-                    <input type="submit" value="Send Message">
-                    <input type="reset" value="Clear Form">
+                    <button type="button" class="btn btn-success" style="padding: 80px, 80px; font-size: 20px; margin-right: 50px;"> Send Message </button>
+                    <button type="reset" class="btn btn-primary" style="padding: 80px, 80px; font-size: 20px;"> Clear Message </button>
                     <div class="clearfix"></div>
                 </form>
             </div>
